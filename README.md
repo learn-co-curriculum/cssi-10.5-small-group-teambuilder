@@ -33,3 +33,5 @@ Sam, the worm’s boat has capsized. You need to save sam by righting his boat, 
 * What was difficult about working with others?
 * Could you have been successful on your own?
 * Are there natural strengths in your group that you can replicate? Are there weaknesses that you can mitigate?
+
+<a href='https://learn.co/lessons/cssi-10.5-small-group-teambuilder' data-visibility='hidden'>View this lesson on Learn.co</a>
